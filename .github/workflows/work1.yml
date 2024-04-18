@@ -1,4 +1,4 @@
-name: Work 1 Marian
+name: Work 1 MarianS
 on: [push]
 jobs:
   build:
