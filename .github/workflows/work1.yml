@@ -4,7 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Print Something 1
+    - name: Mi nombre
       run: echo "Marian Montserrat Sedano Paz"
-    - name: Print Something 2
+    - name: Mi expediente
       run: echo "734838"
