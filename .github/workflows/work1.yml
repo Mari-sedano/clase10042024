@@ -6,5 +6,7 @@ jobs:
     steps:
     - name: Mi nombre
       run: echo "Marian Montserrat Sedano Paz"
+    - name: Version Node
+      run: node -v
     - name: Mi expediente
       run: echo "734838"
